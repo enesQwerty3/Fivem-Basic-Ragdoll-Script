@@ -11,3 +11,4 @@
 -Open server.cfg and start the script with its name whatever you set if you didn't change the folder name just start with folder's default name  
 
 ## Video
+https://streamable.com/kk06xm
