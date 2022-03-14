@@ -11,5 +11,9 @@ Keys = {
 }     --EN:if you want to change the keys these are key indexes                        --TR:Tuşları değiştirmek isterseniz bunlar tuş index'leri
 
 Config={}    --EN:default ragdoll key is 'U' and default stop ragdoll key is 'E'       --TR:Varsayılan bayılma tuşu 'U' ve yerden kalkma tuşu 'E'
+
 Config.RagdollKey = 303  --EN:to change ragdoll key change the key index               --TR:Bayılma tuşunu değiştimek için tuş index'ini değiştirin
+
 Config.StopRagdollKey= 38  --EN:to change stop ragdoll key change the key index        --TR:yerden kalkma tuşunu değiştirmek için tuş index'ini değiştirin
+
+Config.Msg="Bayıldın kalkmak için ~INPUT_PICKUP~ tuşuna bas." --EN:Message that will appear when ragdoll on      --TR:Kullanıcı bayıldığında gösterilen mesaj
